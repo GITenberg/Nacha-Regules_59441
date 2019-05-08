@@ -1,16 +1,21 @@
 _repo: Nacha-Regules_59441
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Ongley, Leo
     gutenberg_agent_id: '50451'
     url: http://www.gutenberg.org/2009/agents/50451
+covers:
+- cover_type: archival
+  image_path: 59441-h/images/cover.jpg
 creator:
   author:
     agent_name: Gálvez, Manuel
     gutenberg_agent_id: '50450'
     url: http://www.gutenberg.org/2009/agents/50450
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59441#Nacha-Regules
 gutenberg_issued: '2019-05-05'
 gutenberg_type: Text
 identifiers:
